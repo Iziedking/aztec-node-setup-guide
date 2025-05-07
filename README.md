@@ -333,7 +333,7 @@ After a successful registration, you can monitor your validator’s status and p
 
 ---
 
-## 14. Troubleshooting
+## 15. Troubleshooting
 
 ### ❌ Connected to 0 Peers
 
@@ -356,7 +356,7 @@ docker logs --follow $(docker ps -q --filter ancestor=aztecprotocol/aztec-node)
 
 ---
 
-## 15. Useful Commands Cheat Sheet
+## 16. Useful Commands Cheat Sheet
 
 ```bash
 # Reattach screen
